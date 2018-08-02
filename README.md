@@ -4,9 +4,9 @@
 |:-------------------:|:----------------------------|
 |Andrew Warrington    |	Social secretary            |
 |Michael Teng	        | Cluster manager             |
-|Robert Zinkov        | Budgeting manager           |
+|Robert Zinkov        | Mailing list(s) manager     |
 |Boyan Beronov        | PLAI group webmaster        |
 |Christian Weilbach   | Anglican maintainer         | 
 |Will Harvey	        | Reading group coordinator   | 
-|Saeid Naderiparizi   | Desk / lab-space czar       |
-|Andreas Munk	        | Recruitment                 |
+|Saeid Naderiparizi   | Lab supply and coffee czar  |
+|Andreas Munk	        | Recruitment czar            |
