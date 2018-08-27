@@ -7,6 +7,6 @@
 |Robert Zinkov        | Mailing list(s) manager     |
 |Boyan Beronov        | PLAI group webmaster        |
 |Christian Weilbach   | Anglican maintainer         | 
-|Will Harvey	        | Reading group coordinator   | 
+|Will Harvey	        | Group meeting coordinator   | 
 |Saeid Naderiparizi   | Lab supply and coffee czar  |
 |Andreas Munk	        | Recruitment czar            |
