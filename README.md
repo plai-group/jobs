@@ -24,7 +24,7 @@ Maintains cluster usage documentation, works with departmental system administra
 
 ## Mailing list(s) manager
 
-Maintains the plai-list internal mailing list as well as the plai-list external mailing list(s) PacNW/Vancouver and world.  Ocasionally drafts letters to the world list with plai-group related information.
+Maintains the plai-list internal mailing list as well as the plai-list external mailing list(s) PacNW/Vancouver and world.  Ocasionally drafts letters to the world list with plai-group related information.  Post on group and PI twitter feeds.
 
 ## PLAI group webmaster
 
