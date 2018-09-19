@@ -32,7 +32,7 @@ Maintains the design and upkeep of the lab website and keeps project pages up to
 
 ## Anglican maintainer
 
-Responds to Anglican-related issues, releases new versions of Anglican, maintains the Anglican website and curates anglican-examples repo.
+Responds to Anglican-related issues, releases new versions of Anglican, maintains the Anglican website and curates anglican-examples repo.  Maintains access controls to plai-group bitbucket and github source control resources.
 
 ## Group meeting coordinator
 
