@@ -2,16 +2,27 @@
 
 | Name                | Task                        |
 |:-------------------:|:----------------------------|
-|Andrew Warrington    |	Social secretary            |
-|Saeid Naderiparizi   | Cluster manager             |
-|Michael Teng         | Social Media / Mailing list manager|
-|Peyman Bateni        | PLAI group webmaster        |
+|Saeid Naderiparizi	  | Reading group coordinator   | 
+|Peyman Bateni        |	Social secretary            |
+|Vaden Masrani / Boyan Beronov | Cluster manager             |
+|Andreas Munk 	      | Recruitment czar            |
 |Christian Weilbach   | Anglican maintainer         | 
-|Boyan Beronov	      | Group meeting coordinator   | 
-|Andreas Munk         | Lab supply and coffee czar  |
-|Adam Scibior 	      | Recruitment czar            |
-|Vaden Masrani        | Database Manager            |
+|Ali                  | PLAI group webmaster        |
+|Barney               | Lab supply and coffee czar  |
+|Ali                  | Social Media / Mailing list manager|
 
+# Not doing a job for various reasons including being a new student
+
+Jason Yoo
+Michael Teng
+Vasiloius
+Nikolay
+Ryan
+Adam Scibior
+Saeid Naderiparizi
+Andrew Warrington
+Wilder Lavington
+Postdoc TBD
 
 # Descriptions
 
@@ -46,8 +57,3 @@ Buys coffee, milk, snacks, and late-night meals in run-ups to deadlines.
 ## Recruitment czar
 
 Helps source postdoc, professional engineer, and graduate student candidates as and when required, connects new members to online resources (gihub, etc.) 
-
-## Database Manager
-
-Maintain lab's MongoDB and submission scripts, create new databases and users, help new members getting set up, writes/maintains documentation
-
