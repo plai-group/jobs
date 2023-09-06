@@ -2,14 +2,14 @@
 
 | Name                | Task                        |
 |:-------------------:|:----------------------------|
-|                 	  | Reading group coordinator   | 
-|                     |	Social secretary            |
+|Dylan Green          | Reading group coordinator   | 
+|Matt Niedoba         |	Social secretary            |
 |Ke Zhang             | Cluster manager             |
-|             	      | Recruitment czar            |
+|Jason Yoo       	    | Recruitment czar            |
 |Christian Weilbach   | Anglican/Daphne maintainer  | 
-|                     | PLAI group webmaster        |
-|                     | Lab supply and coffee czar  |
-|                     | Social Media / Mailing list manager|
+|Larry Liu            | PLAI group webmaster        |
+|Christian Weilbach   | Lab supply and coffee czar  |
+|Andrew               | Social Media / Mailing list manager|
 
 # Not doing a job for various reasons including being a new student
 
@@ -22,6 +22,7 @@ Xiaoxuan Liang
 Matt Niedoba
 Will Harvey
 Ryan Fayyazi
+Dylan Green
 
 # Descriptions
 
