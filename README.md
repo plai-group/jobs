@@ -2,24 +2,26 @@
 
 | Name                | Task                        |
 |:-------------------:|:----------------------------|
-|Saeid Naderiparizi	  | Reading group coordinator   | 
-|Justice Sefas        |	Social secretary            |
-|Vaden Masrani / Boyan Beronov | Cluster manager             |
-|Andreas Munk 	      | Recruitment czar            |
-|Christian Weilbach   | Anglican/Daphne maintainer         | 
-|Ali                  | PLAI group webmaster        |
-|Ali                  | Lab supply and coffee czar  |
-|Ali                  | Social Media / Mailing list manager|
+|                 	  | Reading group coordinator   | 
+|                     |	Social secretary            |
+|Ke Zhang             | Cluster manager             |
+|             	      | Recruitment czar            |
+|Christian Weilbach   | Anglican/Daphne maintainer  | 
+|                     | PLAI group webmaster        |
+|                     | Lab supply and coffee czar  |
+|                     | Social Media / Mailing list manager|
 
 # Not doing a job for various reasons including being a new student
 
 Jason Yoo
-Vasiloius
-Ryan
-Adam Scibior
+Vasileios Lioutas
 Wilder Lavington
-Berend
-Larry
+Larry Liu
+Saeid Naderiparizi
+Xiaoxuan Liang
+Matt Niedoba
+Will Harvey
+Ryan Fayyazi
 
 # Descriptions
 
