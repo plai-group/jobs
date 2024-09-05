@@ -12,13 +12,6 @@
 
 # Not doing a job for various reasons including being a new student
 
-Jason Yoo
-Vasileios Lioutas
-Larry Liu
-Saeid Naderiparizi
-Xiaoxuan Liang
-Matt Niedoba
-Dylan Green
 Charlie He
 
 # Descriptions
@@ -39,9 +32,6 @@ Maintains the plai-list internal mailing list as well as the plai-list external 
 
 Maintains the design and upkeep of the lab website and keeps project pages up to date.  Works with mailing list manager to promote new research outputs. Maintains group bibtex file
 
-## Anglican maintainer
-
-Responds to Anglican-related issues, releases new versions of Anglican, maintains the Anglican website and curates anglican-examples repo.  Maintains access controls to plai-group bitbucket and github source control resources.
 
 ## Group meeting coordinator
 
