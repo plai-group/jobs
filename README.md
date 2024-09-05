@@ -3,26 +3,23 @@
 | Name                | Task                        |
 |:-------------------:|:----------------------------|
 |Dylan Green          | Reading group coordinator   | 
-|Matt Niedoba         |	Social secretary            |
-|Ke Zhang             | Cluster manager             |
-|Jason Yoo       	    | Recruitment czar            |
-|Christian Weilbach   | Anglican/Daphne maintainer  | 
+|Saeid Naderiparizi   |	Social secretary            |
+|Vasileios Lioutas    | Cluster manager             |
+|Xiaoxuan Liang       | Recruitment czar            |
 |Larry Liu            | PLAI group webmaster        |
-|Christian Weilbach   | Lab supply and coffee czar  |
+|Matt Niedoba         | Coffee czar                 |
 |Andrew               | Social Media / Mailing list manager|
 
 # Not doing a job for various reasons including being a new student
 
 Jason Yoo
 Vasileios Lioutas
-Wilder Lavington
 Larry Liu
 Saeid Naderiparizi
 Xiaoxuan Liang
 Matt Niedoba
-Will Harvey
-Ryan Fayyazi
 Dylan Green
+Charlie He
 
 # Descriptions
 
