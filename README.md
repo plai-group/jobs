@@ -2,7 +2,7 @@
 
 | Name                | Task                        |
 |:-------------------:|:----------------------------|
-|Dylan Green          | Reading group coordinator   | 
+|Jason Yoo            | Reading group coordinator   | 
 |Saeid Naderiparizi   |	Social secretary            |
 |Vasileios Lioutas    | Cluster manager             |
 |Xiaoxuan Liang       | Recruitment czar            |
